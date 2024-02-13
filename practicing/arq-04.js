@@ -1,6 +1,6 @@
 // Formas de declarar variáveis: var, let e const
 
-/// var altura = 5
+// var altura = 5
 // ar comprimento = 7
 
 // area = altura * comprimento

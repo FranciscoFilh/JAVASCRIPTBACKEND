@@ -1,4 +1,5 @@
 // typer boolean
+
 // true -> verdadeiro
 // false -> falso
 const primeiroNumero = 5

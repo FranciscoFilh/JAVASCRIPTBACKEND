@@ -1,6 +1,6 @@
 // Vamos nos aprofundar um pouco mais no tema dos booleanos
 
-const x = 0;
+const x = 0
 
 //Boolean
 const usuarioLogado = true
