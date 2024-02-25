@@ -1,0 +1,3 @@
+faca a abstracao de uma superclasse Bichinho virtual. Voce deve ter os atributos: nome, energia, brincar e dormir
+
+regra -> ao brincar o bichinho gasta energia e se a energia atigir um nivel de 0 ele deve dormir para recarregar
