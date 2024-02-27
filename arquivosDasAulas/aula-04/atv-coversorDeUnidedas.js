@@ -1,9 +1,9 @@
 //  crie um codigo que receba uma valor e faça a conversão de acordo com a solicitação do usuario.
 
 const prompt = require('prompt-sync')()
-const valor = Number(prompt('Informe um valor numerico: '))
 
 function converteValor () {
+    const valor = Number(prompt('Informe um valor numerico: '))
     if (!isNaN(valor)) {
         const valorInicial = prompt(`
             Informe a unidade inicial: 
